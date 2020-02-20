@@ -28,4 +28,4 @@ $ ./philo
 ### Threading Resources
 - The Linux Programming Interface: Chapters 29-33
 - Advanced Programming in the Unix Environment: Chapters 11-12
-- Notes: https://medium.com/@travmath/thread-notes-1a73481761eb
+
