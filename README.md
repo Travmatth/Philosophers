@@ -15,8 +15,17 @@ $ make
 $ ./philo
 ```
 
-## RESOURCES
-- [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
-- [CS170 Lecture notes -- Dining Philosophers](https://sites.cs.ucsb.edu/~rich/class/cs170/notes/DiningPhil/index.html)
-- [ThreadMentor: The Dining Philosophers Problem: The Lefty-Righty Version](https://pages.mtu.edu/~shene/NSF-3/e-Book/MUTEX/TM-example-left-right.html)
-
+## Resources
+### Dining Philosophers Problem
+- https://cran.r-project.org/web/packages/simmer/vignettes/simmer-08-philosophers.html
+- https://en.wikipedia.org/wiki/Dining_philosophers_problem
+- http://howardhinnant.github.io/dining_philosophers.html
+- http://web.eecs.utk.edu/~mbeck/classes/cs560/560/notes/Dphil/lecture.html
+- https://www.cs.utexas.edu/users/EWD/ewd03xx/EWD310.PDF
+### Thread Programming Tools
+- https://valgrind.org/docs/manual/hg-manual.html
+- https://valgrind.org/docs/manual/drd-manual.html
+### Threading Resources
+- The Linux Programming Interface: Chapters 29-33
+- Advanced Programming in the Unix Environment: Chapters 11-12
+- Notes: https://medium.com/@travmath/thread-notes-1a73481761eb
